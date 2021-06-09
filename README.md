@@ -23,4 +23,4 @@
 
 ### Detail
 프로젝트 과정 및 느낀점 : <a href="https://velog.io/@leyuri/Project-TO-DO-List-%EB%A7%8C%EB%93%A4%EA%B8%B0">[Project] TO-DO List 만들기 (Spring Boot + Vue.js + MongoDB + Docker)</a><br>
-todo-backend : https://github.com/leyuri/todo-frontend
+todo-frontend : https://github.com/leyuri/todo-frontend
